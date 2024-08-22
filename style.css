@@ -18,6 +18,7 @@ button {
     height: 75px;
     background-color: rgba(255,255,255,0.1);
     background-blend-mode: lighten;
+    padding: 0;
 }
 
 .container {
